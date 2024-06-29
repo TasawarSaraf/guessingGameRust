@@ -1,3 +1,6 @@
+/**Tasawar Saraf */
+
+
 use std::io; // for input and output
 use rand::Rng; // to generate a random number
 use std::cmp::Ordering; // for comparing numbers
